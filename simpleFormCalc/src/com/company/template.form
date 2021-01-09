@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="com.company.template">
+  <grid id="27dc6" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="6f7a0" class="javax.swing.JRadioButton" binding="svmRadioButton" default-binding="true">
+        <constraints/>
+        <properties>
+          <text value="Svm"/>
+        </properties>
+      </component>
+      <component id="a58fb" class="javax.swing.JRadioButton" binding="radioButton1" default-binding="true">
+        <constraints/>
+        <properties>
+          <text value="RadioButton"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
